@@ -1,0 +1,27 @@
+important topics :->
+
+
+important commands :->
+
+
+1. node -v
+2. npm -v
+3. control + j
+4. npm i -g nodemon
+5. nodemon index.js
+6. node index.js
+7. npm init
+8. npm i express 
+9. npm i dotenv
+10. cd firstapp
+11. ls or ls -a
+12. mkdir firstproject
+13. cd .. or cd ../..
+14. select + control + d
+15. npm i mongoose 
+
+
+
+
+
+
